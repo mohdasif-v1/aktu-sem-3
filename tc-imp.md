@@ -9,7 +9,7 @@ Communication is a fundamental process in human life. It helps individuals share
  
 **Definition of Communication:**
 Communication is the process of exchanging **ideas, information, thoughts, or fee lings** between two or more persons in such a way that the message is clearly understood by the receiver. It is a **two-way process** involving both sending and receiving of information to achieve **mutual understanding**.
-
+ 
 ---
 
 **Process of Communication:**v
