@@ -12,7 +12,7 @@ Communication is the process of exchanging **ideas, information, thoughts, or fe
 
 ---
 
-**Process of Communication:**
+**Process of Communication:**v
 The communication process is a systematic sequence through which a message flows from sender to receiver. It includes the following components:
 
 1. **Sender (Encoder):**
